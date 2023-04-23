@@ -17,7 +17,7 @@ def inline_buttons():
             callback_data='convert'
         ),
         InlineKeyboardButton(
-            text='Отправлять случайную картинку с милыми животными',
+            text='Отправлять случайную картинку с милыми кошками',
             callback_data='send_img'
         ),
         InlineKeyboardButton(
